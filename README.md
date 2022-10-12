@@ -19,9 +19,6 @@
 - 🏗️ Currently working on Kitoob app using Flutter.  
   
 
-- 📡 My Linkedin https://www.linkedin.com/in/hashim-khan-a6b846210  
-  
-
 <br/>  
 
 
