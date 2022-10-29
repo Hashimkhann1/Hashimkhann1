@@ -14,6 +14,7 @@
   
 
 -  😀👍 I really enjoy learning languages and frameworks.  
+-  👯 I’m looking to collaborate on ...open sourse projects
   
 
 - 🏗️ Currently working on Kitoob app using Flutter.  
