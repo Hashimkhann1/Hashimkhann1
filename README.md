@@ -2,27 +2,14 @@
 
 ###  👋 Hi there  
 - ### *<ins>I'm M Hashim khan.</ins>*  
-  
-
 - 📘 I currently learning Flutter.  
-  
-
 - 📫 I am Full-Stack Web and Flutter Developer.  
-  
-
 -  🧓 I’m 20 Year old.  
-  
-
 -  😀👍 I really enjoy learning languages and frameworks.  
 -  👯 I’m looking to collaborate on ...open sourse projects
-  
-
 - 🏗️ Currently working on Kitoob app using Flutter.  
-
 - Currently working on Flutter State Managment
 - Thank you
-  
-
 <br/>  
 
 
