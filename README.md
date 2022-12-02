@@ -48,4 +48,10 @@ Connect with me
 <a href="https://instagram.com/hashimkhan5806" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+  <br/>
+  <br/>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashimkhann1&show_icons=true&locale=en" alt="hashimkhann1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashimkhann1&" alt="hashimkhann1" /></p>
+
 </div>  
