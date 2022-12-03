@@ -42,16 +42,13 @@ Connect with me
 <a href="https://linkedin.com/in/hashim-khan-a6b846210" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100011393307548" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
 <a href="https://instagram.com/hashimkhan5806" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   <br/>
   <br/>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashimkhann1&show_icons=true&locale=en" alt="hashimkhann1" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashimkhann1&" alt="hashimkhann1" /></p>
-
+<br/>
+  <br/>
 </div>  
