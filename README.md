@@ -28,7 +28,6 @@ My Skill Set
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="80" /></a>  
 </div>
 </td></tr></table>  
-<br/>  
 Connect with me  
 <div align="center">
 <a href="https://github.com/Hashimkhann1" target="_blank">
