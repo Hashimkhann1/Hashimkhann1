@@ -36,4 +36,13 @@ Connect with me
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashimkhann1&" alt="hashimkhann1" /></p>
 <br/>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimkhann1&show_icons=true&locale=en&layout=compact" alt="hashimkhann1" /></p>
+  <a href="https://github.com/Hashimkhann1" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Hashimk87136813" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/hashim-khan-a6b846210" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
 </div>  
