@@ -37,6 +37,7 @@ My Skill Set
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimkhann1&show_icons=true&locale=en&layout=compact" alt="hashimkhann1" /></p>
   <br/>
   Connect with me
+  <br/>
   <a href="https://github.com/Hashimkhann1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
