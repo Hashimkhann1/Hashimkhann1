@@ -1,10 +1,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A87F7&width=550&lines=Hi+i'm+Muhammad+Hashim.;i'm+flutter+and+full+stack+web+developer." alt="Typing SVG" /></a>
-- 📘 I currently learning Flutter.  
+- 📘 I currently learning Flutter. 
 -  😀👍 I really enjoy learning languages and frameworks.  
 -  👯 I’m looking to collaborate on ...open sourse projects
 - 🏗️ Currently working on Kitoob app using Flutter.  
-- Thank you
 <br/>
 My Skill Set
 <br/>
