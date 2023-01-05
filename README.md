@@ -5,7 +5,6 @@
 -  👯 I’m looking to collaborate on ...open sourse projects
 - 🏗️ Currently working on Kitoob app using Flutter.
 - 🧑‍🎓i am student at jinnah college
-<br/>
 My Skill Set
 <br/>
 <br/>
