@@ -4,7 +4,8 @@
 -  😀👍 I really enjoy learning languages and frameworks.  
 -  👯 I’m looking to collaborate on ...open sourse projects
 - 🏗️ Currently working on Kitoob app using Flutter.
-- 🧑‍🎓i am student at jinnah college
+- 🧑‍🎓i am student at jinnah college.
+<be/>
 My Skill Set
 <br/>
 <br/>
