@@ -3,7 +3,7 @@
 - 📘 I'm currently learning Flutter. 
 -  😀👍 I really enjoy learning languages and frameworks.  
 -  👯 I’m looking to collaborate on ...open sourse projects
-- 🏗️ Currently working on Kitoob app using Flutter and publish on play store.
+- 🏗️ Currently working on Kitoob app using Flutter and published on play store.
 - 🧑‍🎓i am student at jinnah college.
 <br/>
 My Skill Set
