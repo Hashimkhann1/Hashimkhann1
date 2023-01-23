@@ -12,6 +12,7 @@
 - 🧑‍🎓i am student at jinnah college.
 </div>
 <br/>
+<br/>
 My Skill Set
 <table><tr><td valign="top" width="100%">
 <div align="center">  
