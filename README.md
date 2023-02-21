@@ -15,6 +15,7 @@
 <br/>
 <br/>
 My Skill Set
+<br/>
 <table><tr><td valign="top" width="100%">
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80" /></a>  
